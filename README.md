@@ -46,6 +46,14 @@ I have good knowledge of frontend development and am gaining hands-on experience
 ---
 [![](https://visitcount.itsvg.in/api?id=Rutur89&icon=4&color=0)](https://visitcount.itsvg.in)
 
+## 🏢 Organizations I'm Associated With:
+[![Organization Name](https://img.shields.io/badge/-MediTechdit-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
+
+[![GitHub Organization](https://img.shields.io/badge/-GitHubOrg-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-org)
+
+[![Other Organization](https://img.shields.io/badge/-OtherOrg-%23FF6F00?style=for-the-badge&logo=google&logoColor=white)](https://other-org-link.com)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Snake Animation -->
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
