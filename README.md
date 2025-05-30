@@ -7,7 +7,7 @@ I have good knowledge of frontend development and am gaining hands-on experience
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rutu_jawale2108) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruturaj-p-jawale) 
 [![GitHub _ 2](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Rutur89)
-
+[![Website](https://img.shields.io/badge/Website-%23121011.svg?logo=globe&logoColor=black)](https://portfolio-rj-pearl.vercel.app/)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
