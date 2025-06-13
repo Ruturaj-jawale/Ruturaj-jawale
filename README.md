@@ -18,9 +18,6 @@ I have good knowledge of **frontend development** and am gaining hands-on experi
 
 ---
 
-## 🌐 Portfolio:
-🎯 Check out my personal portfolio to know more about my projects, resume, and skills:  
-🔗 [https://portfolio-rj-pearl.vercel.app/](https://portfolio-rj-pearl.vercel.app/)
 
 <p align="center">
   <a href="https://portfolio-rj-pearl.vercel.app" target="_blank">
