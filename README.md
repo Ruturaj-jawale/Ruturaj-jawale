@@ -1,7 +1,4 @@
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=007BFF&center=true&width=600&lines=👋+HELLO+EVERYONE%2C+IT'S+RUTURAJ+HERE+!!;💫+About+Me%3A;Hi%2C+I+am+Ruturaj+Jawale%2C+Computer+Engineering+Student+from+Pune.;Frontend+Developer+%7C+ML+Enthusiast+%7C+Cloud+Learner" alt="Typing SVG" />
-</p>
+
 
 <!-- Welcome Banner -->
 <p align="center">
@@ -10,7 +7,7 @@
 
 <!-- About Me GIF -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" alt="about me gif" width="80%" />
+  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" alt="about me gif" width="20%" />
 </p>
 
 ---
@@ -34,18 +31,15 @@ I have good knowledge of **frontend development** and am gaining hands-on experi
 ---
 
 ## 🌐 Connect with Me:
-<p align="left">
-  <a href="https://www.instagram.com/rutu_jawale2108" target="_blank">
+<p align="left" style="padding-left: 10px;">
+  <a href="https://www.instagram.com/rutu_jawale2108" target="_blank" style="margin-right: 20px;">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/ruturaj-p-jawale" target="_blank">
+  <a href="https://www.linkedin.com/in/ruturaj-p-jawale" target="_blank" style="margin-right: 20px;">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Rutur89" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" />
-  </a>
-  <a href="https://portfolio-rj-pearl.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-%23121011.svg?logo=globe&logoColor=black" />
   </a>
 </p>
 
